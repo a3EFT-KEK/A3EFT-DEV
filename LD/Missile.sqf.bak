@@ -1,0 +1,1 @@
+call{west reportRemoteTarget [t1, 3000]; t1 confirmSensorTarget [west, true]; g1 fireAtTarget [t1, "weapon_vls_01"];}
